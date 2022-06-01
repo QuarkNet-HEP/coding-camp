@@ -10,3 +10,5 @@ This is a place to store projects that are not yet fully working or polished.
 
 - **Reading from a Google Sheet**: [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Work%20in%20Progress/Read_from_Drive_example.ipynb) or [download](https://github.com//QuarkNet-HEP/coding-camp/raw/master/Work%20in%20Progress/Read_from_Drive_example.ipynb).  
 - **Data Viz**: Plot a function with linspace and ustomize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Work%20in%20Progress/Data_Viz.ipynb) or [download](https://github.com//QuarkNet-HEP/coding-camp/raw/master/Work%20in%20Progress/Data_Viz.ipynb). 
+
+- **Data Viz (short)**: Plot a function with linspace and ustomize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Work%20in%20Progress/Data_Viz_short.ipynb) or [download](https://github.com//QuarkNet-HEP/coding-camp/raw/master/Work%20in%20Progress/Data_Viz_short.ipynb). 
