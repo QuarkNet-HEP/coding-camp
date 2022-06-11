@@ -13,6 +13,7 @@
 ## Code to help you do things  
 - **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb).  
 - **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb).  
+- **Model fitting**: Add a trendline or curve to a set of data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/model_fitting.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/model_fitting.ipynb).  
 - **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb).  
 
 
