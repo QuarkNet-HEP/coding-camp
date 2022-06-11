@@ -8,5 +8,5 @@
 - **MINERvA**: Dimuon analysis for finding neutral particle mass. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/minerva_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/minerva_v2.ipynb).  
 - **Rolling With Rutherford (with Google Form)** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Rolling_With_Rutherford_Using_Google_Forms.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Rolling_With_Rutherford_Using_Google_Forms.ipynb).  
 - **Finding Pi** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb).  
-- **Monte Carlo Pi** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo_pi.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo_pi.ipynb).  
+- **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb).  
 
