@@ -9,6 +9,7 @@
 - **Finding Pi** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb).  
 
 <hr />  
+
 ## Code to help you do things  
 - **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb).  
 - **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb).  
