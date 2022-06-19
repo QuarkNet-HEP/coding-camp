@@ -1,19 +1,6 @@
 ## Activities in development
-- **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/data_viz.ipynb).  
 - **Data Viz tutorial**: A more scaffolded version of the Data Viz activity. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Data_Viz_tutorial.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Data_Viz_tutorial.ipynb).  
-- **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' test. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/B_field_variation.ipynb).  
-- **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/muon_tracks.ipynb).  
 - **Eclipse Rate**: A cosmic ray study of the August 2017 solar eclipse. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/CRMD-eclipse-rate.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/CRMD-eclipse-rate.ipynb).  
 - **MINERvA**: Dimuon analysis for finding neutral particle mass. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/minerva_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/minerva_v2.ipynb).  
 - **Rolling With Rutherford (with Google Form)** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Rolling_With_Rutherford_Using_Google_Forms.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Rolling_With_Rutherford_Using_Google_Forms.ipynb).  
 - **Finding Pi** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/Finding_Pi.ipynb).  
-
-<hr />  
-
-## Code to help you do things  
-- **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/read_from_a_file.ipynb).  
-- **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/plots_with_errorbars.ipynb).  
-- **Model fitting**: Add a trendline or curve to a set of data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/model_fitting.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/model_fitting.ipynb).  
-- **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/in_dev/monte_carlo.ipynb).  
-
-
