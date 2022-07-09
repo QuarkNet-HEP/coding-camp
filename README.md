@@ -11,7 +11,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 
 ## Coding Camp 2  
 - **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb).  
-- **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' test. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb).  
+- **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb).  
 - **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb).  
 
 ## Code to help you do things  
