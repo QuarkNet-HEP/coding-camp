@@ -10,14 +10,14 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb).  
 
 ## Coding Camp 2  
-- **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb).  
-- **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb).  
-- **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb).  
+- **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/data_viz.ipynb).  
+- **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).  
+- **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks.ipynb).  
 
 ## Code to help you do things  
-- **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb).  
-- **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/plots_with_errorbars.ipynb).  
-- **Model fitting**: Add a trendline or curve to a set of data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/model_fitting.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/model_fitting.ipynb).  
-- **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/blob/main/monte_carlo.ipynb).  
+- **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/read_from_a_file.ipynb).  
+- **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/plots_with_errorbars.ipynb).  
+- **Model fitting**: Add a trendline or curve to a set of data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/model_fitting.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/model_fitting.ipynb).  
+- **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/monte_carlo.ipynb).  
 - **Make a histogram**: *coming soon*  
 - **Math with tabular data**: *coming soon*  
