@@ -16,8 +16,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 
 ## Code to help you do things  
 - **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/read_from_a_file.ipynb).  
+- **Math with tabular data**: Open a data file, add a new column, and fill a new column with calculated values. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/math_with_tabular_data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/math_with_tabular_data.ipynb).  
 - **Errorbars**: Make plots with errorbars. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/plots_with_errorbars.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/plots_with_errorbars.ipynb).  
 - **Model fitting**: Add a trendline or curve to a set of data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/model_fitting.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/model_fitting.ipynb).  
 - **Monte Carlo** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/monte_carlo.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/monte_carlo.ipynb).  
 - **Make a histogram**: *coming soon*  
-- **Math with tabular data**: *coming soon*  
