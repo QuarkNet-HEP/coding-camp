@@ -10,6 +10,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb).  
 
 ## Coding Camp 2  
+The development and implementation of these materials and workshop were funded by generous support from IRIS-HEP, the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org/).  
 - **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/data_viz.ipynb).  
 - **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).  
 - **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks.ipynb).  
