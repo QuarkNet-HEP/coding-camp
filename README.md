@@ -14,6 +14,7 @@ The development and implementation of these materials and workshop were funded b
 - **Data Viz**: Plot a function with linspace and customize plots with pyplot and mpls' object-oriented interface and define a function. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/data_viz.ipynb).  
 - **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).  
 - **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks.ipynb).  
+- **Muon Tracks with Machine Learning**: Repeat the muon tracks analysis with several machine learing techniques. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks_with_ML.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks_with_ML.ipynb).  
 
 ## Code to help you do things  
 - **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/read_from_a_file.ipynb).  
