@@ -16,6 +16,14 @@ The development and implementation of these materials and workshop were funded b
 - **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks.ipynb).  
 - **Muon Tracks with Machine Learning**: Repeat the muon tracks analysis with several machine learing techniques. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks_with_ML.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks_with_ML.ipynb).  
 
+## Coding Camp in 1 Day  
+The development and implementation of these materials and workshop were funded by generous support from IRIS-HEP, the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org/).  
+- **Intro to Colab and Python**: Brief introduction for those who have never used Colab or Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb)
+- **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://drive.google.com/file/d/1VTBOUW8KZ_U1RHSB0yq5LlXQWmi5HsQz/view?usp=share_link)
+- **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://drive.google.com/file/d/1VJ0bGR5TgPIxwGDy6cnlmztFErjyjOXg/view?usp=share_link)
+- **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
+- **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://drive.google.com/file/d/1M-aqPBX7MZpn8d0sJ5IKXmW9FsqsJWei/view?usp=share_link)
+
 ## Code to help you do things  
 - **Reading from a file** [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/read_from_a_file.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/read_from_a_file.ipynb).  
 - **Math with tabular data**: Open a data file, add a new column, and fill a new column with calculated values. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/math_with_tabular_data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/math_with_tabular_data.ipynb).  
