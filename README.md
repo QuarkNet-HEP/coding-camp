@@ -17,7 +17,6 @@ The development and implementation of these materials and workshop were funded b
 - **Muon Tracks with Machine Learning**: Repeat the muon tracks analysis with several machine learing techniques. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks_with_ML.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks_with_ML.ipynb).  
 
 ## Coding Camp in 1 Day  
-The development and implementation of these materials and workshop were funded by generous support from IRIS-HEP, the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org/).  
 - **Intro to Colab and Python**: Brief introduction for those who have never used Colab or Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb)
 - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://drive.google.com/file/d/1VTBOUW8KZ_U1RHSB0yq5LlXQWmi5HsQz/view?usp=share_link)
 - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://drive.google.com/file/d/1VJ0bGR5TgPIxwGDy6cnlmztFErjyjOXg/view?usp=share_link)
