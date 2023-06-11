@@ -64,6 +64,10 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <summary><h2> Coding Camp 0</h2></summary>
     
     - Insert files here
+    - Intro to Python
+    - Ifs & Loops
+    - Dice Rolling
+    - Position vs Time Graphs
   
   </details>
   
