@@ -10,6 +10,12 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 - Insert stuff here
   </details>
 
+  <details>
+    <summary> <h2> Earth Science</h2></summary>
+  
+- Insert stuff here
+  </details>
+  
     <details>
     <summary> <h2> Intro to Code </h2></summary>
   
@@ -26,8 +32,12 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   
   <details>
     <summary> <h2> Particle Physics</h2></summary>
+    
+    - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb). 
+    - **Muon Mass**: Intro to relativistic kinematics and E=mc<sup>2</sup> with data from CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_mass.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_mass.ipynb).
+    - **Muon Tracks**: Analyze tracker data from muons in CMS. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks.ipynb).  
+    - **Muon Tracks with Machine Learning**: Repeat the muon tracks analysis with several machine learing techniques. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_tracks_with_ML.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_tracks_with_ML.ipynb).  
   
-- Insert stuff here
   </details>
   
   
@@ -95,7 +105,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <summary><h2>1 Day Center Workshop</h2></summary>
 
     - **Intro to Colab and Python**: Brief introduction for those who have never used Colab or Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb)
-    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://drive.google.com/file/d/1VTBOUW8KZ_U1RHSB0yq5LlXQWmi5HsQz/view?usp=share_link)
+    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
     - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://drive.google.com/file/d/1VJ0bGR5TgPIxwGDy6cnlmztFErjyjOXg/view?usp=share_link)
     - **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
     - **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://drive.google.com/file/d/1M-aqPBX7MZpn8d0sJ5IKXmW9FsqsJWei/view?usp=share_link)
