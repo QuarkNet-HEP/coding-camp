@@ -6,8 +6,12 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 <details> <summary> Expand by Topic</summary> 
   <details>
     <summary> <h2> Astronomy</h2></summary>
-  
-- Insert stuff here
+
+- **Star Brightness and Energy**: Identify possible relationships between the brightness of a star and it's energy. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Star_Brightness_and_Energy.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Brightness_and_Energy.ipynb)
+- **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).
+- **Star Locations**: Analyze a huge collection of Hipparcos, Yale Bright Star, and Gliese catalogues and learn how to plot constellations [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Star_Locations_and_How_to_Start_Using_Colab.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Locations_and_How_to_Start_Using_Colab.ipynb)
+- **Sunspots**: Analyze sunspot and solar observation data to discover patterns in the sun's activity [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Sunspots.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Sunspots.ipynb)
+
   </details>
 
   <details>
@@ -26,8 +30,12 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   <details>
     <summary> <h2> Non-Particle Physics</h2></summary>
     
-- Insert stuff here
+    - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/matching-position-graphs.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/matching-position-graphs.ipynb)
+    - **Position vs Time Graphs - Extended**: Using Equations of Motion to create graphs and creating motion graphs from imported data [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
+    - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
+    - **Velocity vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/matching-velocity-graphs.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/matching-velocity-graphs.ipynb)
   </details>
+
   
   
   <details>
@@ -88,7 +96,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 - **Probability**: Generate random dice rolls and make histograms. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/probability.ipynb).  
 - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb). 
 - **Muon Mass**: Intro to relativistic kinematics and E=mc<sup>2</sup> with data from CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_mass.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_mass.ipynb).  
-- **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
+- **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
 - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb).  
   </details>
 
@@ -106,9 +114,9 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 
     - **Intro to Colab and Python**: Brief introduction for those who have never used Colab or Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb)
     - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
-    - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://drive.google.com/file/d/1VJ0bGR5TgPIxwGDy6cnlmztFErjyjOXg/view?usp=share_link)
+    - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
     - **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
-    - **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://drive.google.com/file/d/1M-aqPBX7MZpn8d0sJ5IKXmW9FsqsJWei/view?usp=share_link)
+    - **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
   
   </details>
 
