@@ -16,8 +16,9 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 
   <details>
     <summary> <h2> Earth Science</h2></summary>
-  
-- Insert stuff here
+    
+    - **Global Temperatures**: Analyze temperature data from NASA's GISTEMP [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/global-temp.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/global-temp.ipynb)
+    - **Quakes**: Plot USGS Earthqake data to discover plate boundries [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes_v2.ipynb)
   </details>
   
     <details>
@@ -30,6 +31,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   <details>
     <summary> <h2> Non-Particle Physics</h2></summary>
     
+    - **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).
     - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/matching-position-graphs.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/matching-position-graphs.ipynb)
     - **Position vs Time Graphs - Extended**: Using Equations of Motion to create graphs and creating motion graphs from imported data [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
     - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
