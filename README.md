@@ -19,15 +19,16 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     
     - **Global Temperatures**: Analyze temperature data from NASA's GISTEMP [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/global-temp.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/global-temp.ipynb)
     - **Quakes**: Plot USGS Earthqake data to discover plate boundries [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes_v2.ipynb)
+    - **Tides**: Discover patterns in tidal data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/tides.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/tides.ipynb)
   </details>
   
     <details>
-    <summary> <h2> Intro to Code </h2></summary>
-  
-- **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb) 
-- **Intro to Colab**: Learn about Python variables, strings, and Markdown in Colab. Structured for new coders. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Intro_to_Coding.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Intro_to_Coding.ipynb)
- - **Quick Intro to Colab**: Similar to the above notebook, but at a faster pace. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb)
- - **Ifs & Loops**: Investigate If, Elif, Else logical flow, For and While loops in Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Ifs_%26_Loops.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Ifs_%26_Loops.ipynb)
+      <summary> <h2> Intro to Code </h2></summary>
+      
+    - **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb)
+    - **Intro to Colab**: Learn about Python variables, strings, and Markdown in Colab. Structured for new coders. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Intro_to_Coding.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Intro_to_Coding.ipynb)
+    - **Quick Intro to Colab**: Similar to the above notebook, but at a faster pace. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb)
+    - **Ifs & Loops**: Investigate If, Elif, Else logical flow, For and While loops in Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Ifs_%26_Loops.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Ifs_%26_Loops.ipynb)
   </details>
  
   
@@ -35,8 +36,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <summary> <h2> Non-Particle Physics</h2></summary>
     
     - **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).
-    - ** Falcon 9 Rocket Data**: Use a live video from a Falcon 9 Launch to learn about kinematics and calculus. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Falcon_9_Rocket_Data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Falcon_9_Rocket_Data.ipynb).
-    - ** Pendulum Analysis **: Analyze the variables in a pendulum. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Pendulum_Analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Pendulum_Analysis.ipynb).
+    - **Falcon 9 Rocket Data**: Use a live video from a Falcon 9 Launch to learn about kinematics and calculus. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Falcon_9_Rocket_Data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Falcon_9_Rocket_Data.ipynb).
+    - **Pendulum Analysis**: Analyze the variables in a pendulum. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Pendulum_Analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Pendulum_Analysis.ipynb).
     - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/matching-position-graphs.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/matching-position-graphs.ipynb)
     - **Position vs Time Graphs - Extended**: Using Equations of Motion to create graphs and creating motion graphs from imported data [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
     - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
@@ -59,8 +60,11 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   
   <details>
     <summary> <h2> Stats & Mathematics </h2></summary>
-  
-- Insert stuff here
+    
+    - **Basic Stats**: Read in a data file, and obtain basic statistical values on the dataset. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/basic_stats.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/basic_stats.ipynb).
+    - **Penny Mass Plot**: Use a histogram of penny masses to determine changes in composition. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Penny_Mass_Plot.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Penny_Mass_Plot.ipynb)
+    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
+
   </details>
   
   <details>
@@ -88,23 +92,22 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   <details>
     <summary><h2> Coding Camp 0</h2></summary>
     
-    - Insert files here
-    - Intro to Python
-    - Ifs & Loops
-    - Dice Rolling
-    - Position vs Time Graphs
+- **Intro to Colab**: Learn about Python variables, strings, and Markdown in Colab. Structured for new coders. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Intro_to_Coding.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Intro_to_Coding.ipynb)
+- **Ifs & Loops**: Investigate If, Elif, Else logical flow, For and While loops in Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Ifs_%26_Loops.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Ifs_%26_Loops.ipynb)
+- **Probability**: Generate random dice rolls and make histograms. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/probability.ipynb). 
+- **Position vs Time Graphs - Extended**: Using Equations of Motion to create graphs and creating motion graphs from imported data [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
   
   </details>
   
   <details>
     <summary> <h2>Coding Camp 1</h2></summary>
   
-- **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb).  
-- **Probability**: Generate random dice rolls and make histograms. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/probability.ipynb).  
-- **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb). 
-- **Muon Mass**: Intro to relativistic kinematics and E=mc<sup>2</sup> with data from CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_mass.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_mass.ipynb).  
-- **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
-- **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb).  
+    - **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb).  
+  - **Probability**: Generate random dice rolls and make histograms. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/probability.ipynb).  
+  - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb). 
+  - **Muon Mass**: Intro to relativistic kinematics and E=mc<sup>2</sup> with data from CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_mass.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_mass.ipynb).  
+  - **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
+  - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb).  
   </details>
 
 <details>
@@ -119,24 +122,45 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   <details> 
     <summary><h2>1 Day Center Workshop</h2></summary>
 
-    - **Intro to Colab and Python**: Brief introduction for those who have never used Colab or Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/data_viz.ipynb)
+    - **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb)
     - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
     - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
     - **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
-    - **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
+    - **Star Catalogue**: Least detailed instruction for pulling data and creating a graph [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).
+    - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb). 
   
   </details>
 
 
   <details><summary><h2> 2 Day Center Workshop</h2></summary>
     
-    - Insert files here
-
+     - **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb)
+    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
+    - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
+    - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
+    - **Quakes**: Plot USGS Earthqake data to discover plate boundries [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes_v2.ipynb)
+    - **Global Temperatures**: Analyze temperature data from NASA's GISTEMP [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/global-temp.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/global-temp.ipynb)
+    - **Tides**: Discover patterns in tidal data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/tides.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/tides.ipynb)
+    - **Star Brightness and Energy**: Identify possible relationships between the brightness of a star and it's energy. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Star_Brightness_and_Energy.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Brightness_and_Energy.ipynb)
+    - **Pendulum Analysis**: Analyze the variables in a pendulum. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Pendulum_Analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Pendulum_Analysis.ipynb).
+    - **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
+    
   </details>
   
   <details><summary><h2>3 Day Center Workshop</h2></summary>
     
-    - Insert files here
+     - **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb)
+    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
+    - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
+    - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
+    - **Quakes**: Plot USGS Earthqake data to discover plate boundries [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes_v2.ipynb)
+    - **Global Temperatures**: Analyze temperature data from NASA's GISTEMP [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/global-temp.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/global-temp.ipynb)
+    - **Tides**: Discover patterns in tidal data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/tides.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/tides.ipynb)
+    - **Star Brightness and Energy**: Identify possible relationships between the brightness of a star and it's energy. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Star_Brightness_and_Energy.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Brightness_and_Energy.ipynb)
+    - **Pendulum Analysis**: Analyze the variables in a pendulum. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Pendulum_Analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Pendulum_Analysis.ipynb).
+    - **Muon Mass**: Less detailed instructions for pulling a dataset, manipulating the data and graphing results with physics knowledge required [Open in Colab](https://drive.google.com/file/d/11-03Vf4TDRpmGJ5JLyTtdcP2nzjMLmkK/view?usp=share_link)
+    - **Penny Mass Plot**: Use a histogram of penny masses to determine changes in composition. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Penny_Mass_Plot.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Penny_Mass_Plot.ipynb)
+    - **Leptonic Decays**: Identify particles with mass reconstruction using CERN data. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/leptonic_decays_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/leptonic_decays_v2.ipynb). 
     
   </details>
 </details>
