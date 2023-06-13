@@ -24,7 +24,10 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <details>
     <summary> <h2> Intro to Code </h2></summary>
   
-- Insert stuff here
+- **Intro to Data Camp**: Learn about doing math in Python and Markdown Formatting in Colab. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/0_Data_Camp_intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/0_Data_Camp_intro.ipynb) 
+- **Intro to Colab**: Learn about Python variables, strings, and Markdown in Colab. Structured for new coders. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Intro_to_Coding.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Intro_to_Coding.ipynb)
+ - **Quick Intro to Colab**: Similar to the above notebook, but at a faster pace. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb)
+ - **Ifs & Loops**: Investigate If, Elif, Else logical flow, For and While loops in Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Ifs_%26_Loops.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Ifs_%26_Loops.ipynb)
   </details>
  
   
@@ -32,6 +35,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <summary> <h2> Non-Particle Physics</h2></summary>
     
     - **B-field Variation**: Analyze data from mobile app using Natasha Holmes' t' analysis. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/B_field_variation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/B_field_variation.ipynb).
+    - ** Falcon 9 Rocket Data**: Use a live video from a Falcon 9 Launch to learn about kinematics and calculus. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Falcon_9_Rocket_Data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Falcon_9_Rocket_Data.ipynb).
+    - ** Pendulum Analysis **: Analyze the variables in a pendulum. [Open in Colab](https://colab.research.google.com/github/Peter-Apps/coding-camp/blob/main/Pendulum_Analysis.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Pendulum_Analysis.ipynb).
     - **Position vs Time Graphs**: Using equations and creating different graphs [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/matching-position-graphs.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/matching-position-graphs.ipynb)
     - **Position vs Time Graphs - Extended**: Using Equations of Motion to create graphs and creating motion graphs from imported data [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Position_Graphs_Extended.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Position_Graphs_Extended.ipynb)
     - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb).
