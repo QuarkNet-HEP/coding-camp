@@ -108,7 +108,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
   - **Projectile in air**: Model a projectile with air resistance using Euler's method. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/projectile_in_air.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/projectile_in_air.ipynb). 
   - **Muon Mass**: Intro to relativistic kinematics and E=mc<sup>2</sup> with data from CERN. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/muon_mass.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/muon_mass.ipynb).  
   - **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).  
-    - **Plotting CMS Data**: Visualize dimuon events in CMS and look for patterns. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/CC1_CMS_activity.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/CC1_CMS_activity.ipynb).
+  - **Plotting CMS Data**: Visualize dimuon events in CMS and look for patterns. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/CC1_CMS_activity.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/CC1_CMS_activity.ipynb).
   </details>
 
 <details>
