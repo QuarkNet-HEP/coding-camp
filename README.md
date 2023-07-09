@@ -64,7 +64,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     
     - **Basic Stats**: Read in a data file, and obtain basic statistical values on the dataset. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/basic_stats.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/basic_stats.ipynb).
     - **Penny Mass Plot**: Use a histogram of penny masses to determine changes in composition. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Penny_Mass_Plot.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Penny_Mass_Plot.ipynb)
-    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb)
+    - **Probability**: Guided review of creating data and plotting a histogram [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/probability.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/probability.ipynb)
+    -  **Wrapping Paper**: Introduction to Colab and Python using Volume & Surface Area. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Wrapping_Paper.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Wrapping_Paper.ipynb)
 
   </details>
   
