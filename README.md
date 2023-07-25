@@ -18,7 +18,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     <summary> <h2> Earth Science</h2></summary>
     
     - **Global Temperatures**: Analyze temperature data from NASA's GISTEMP [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/global-temp.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/global-temp.ipynb)
-     - **Quakes**: Plot USGS Earthqake data to discover plate boundries (v2)[Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes.ipynb)
+     - **Quakes**: Plot USGS Earthqake data to discover plate boundries [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes.ipynb)
     - **Quakes**: Plot USGS Earthqake data to discover plate boundries (v2)[Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/quakes_v2.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/quakes_v2.ipynb)
     - **Sea Levels**: Analyze sea level data off of Key West, FL with scatterplots.
 [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Visualizing_Sea_Level_Data.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Visualizing_Sea_Level_Data.ipynb)
