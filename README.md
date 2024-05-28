@@ -38,6 +38,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
     - **Intro to Colab**: Learn about Python variables, strings, and Markdown in Colab. Structured for new coders. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Intro_to_Coding.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Intro_to_Coding.ipynb)
     - **Quick Intro to Colab**: Similar to the above notebook, but at a faster pace. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/intro.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/intro.ipynb)
     - **Ifs & Loops**: Investigate If, Elif, Else logical flow, For and While loops in Python [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Ifs_%26_Loops.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Ifs_%26_Loops.ipynb)
+    - **Fixing Errors**: Try your hand at fixing some common errors that will occur as you code. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Fixing_Errors.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Fixing_Errors.ipynb)
+    - **Fixing Errors (Solutions)**: Solutions to the Fixing Errors Notebook. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Fixing_Errors_Solutions.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Fixing_Errors_Solutions.ipynb)
   </details>
  
   
