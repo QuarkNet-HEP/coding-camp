@@ -184,6 +184,8 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 
 </details>
 
+# Acknowledgements & Licenses
+
 The development and implementation of these materials and workshop were additionally funded by generous support from IRIS-HEP, the [Institute for Research and Innovation in Software for High Energy Physics](https://iris-hep.org/). 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
