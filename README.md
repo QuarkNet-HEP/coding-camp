@@ -6,7 +6,7 @@ These activities were developed for use with teachers in Quarknet Coding Camps a
 <details> <summary> Expand by Topic</summary> 
   <details>
     <summary> <h2> Astronomy</h2></summary>
-
+- **Galaxy Rotation**: Determine the amount dark matter from galaxy rotation curves. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Galaxy_Rotation.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Galaxy_Rotation.ipynb)
 - **Star Brightness and Energy**: Identify possible relationships between the brightness of a star and it's energy. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Star_Brightness_and_Energy.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Brightness_and_Energy.ipynb)
 - **Star Catalogue**: Find patterns of stellar charateristics in a huuuge dataset, unscaffolded. [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/star_catalogue.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/star_catalogue.ipynb).
 - **Star Locations**: Analyze a huge collection of Hipparcos, Yale Bright Star, and Gliese catalogues and learn how to plot constellations [Open in Colab](https://colab.research.google.com/github/QuarkNet-HEP/coding-camp/blob/main/Star_Locations_and_How_to_Start_Using_Colab.ipynb) or [download](https://github.com/QuarkNet-HEP/coding-camp/raw/main/Star_Locations_and_How_to_Start_Using_Colab.ipynb)
