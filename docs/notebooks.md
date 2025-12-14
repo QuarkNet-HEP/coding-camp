@@ -35,8 +35,6 @@ These activities explore astronomical data and patterns.
 
 ## 🌍 Earth Science
 
-These notebooks work with real Earth data.
-
 - **Global Temperatures** – Study climate trends via NASA data  
   [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/global-temp.ipynb)
 
@@ -52,67 +50,6 @@ These notebooks work with real Earth data.
 - **Tides** – Discover tidal patterns  
   [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/tides.ipynb)
 
----
-
-## 💻 Intro to Code
-
-These are ideal *first-lessons* for beginners.
-
-- **Intro to Data Camp** – Python basics + Markdown in Colab  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/0_Data_Camp_intro.ipynb)
-
-- **Intro to Colab** – Python variables, strings, and Markdown  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Getting_Data_Into_Colab.ipynb)
-
-- **Quick Intro to Colab** – Fast-paced intro session  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Intro_to_Coding.ipynb)
-
-- **Ifs & Loops** – Python control flow fundamentals  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Ifs_&_Loops.ipynb)
-
-- **Fixing Errors** – Practice debugging skills  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Fixing_Errors.ipynb)
-
-- **Fixing Errors (Solutions)** – Answer key for debugging  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Fixing_Errors_Solutions.ipynb)
-
----
-
-## 🧪 Other Applied Topics
-
-These cover various science and physics applications.
-
-- **B-field Variation** – Analyze app sensor data  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/B_field_variation.ipynb)
-
-- **Falcon 9 Rocket Data** – Kinematics and calculus from launch data  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Falcon_9_Rocket_Data.ipynb)
-
-- **Mass on a Spring** – Find spring constants from data  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Mass_on_a_Spring.ipynb)
-
----
-
-## 📊 More Science & Math Notebooks
-
-A broad collection of other explorations.
-
-- **Penny Mass Plot**  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Penny_Mass_Plot.ipynb)
-
-- **Phyphox Scaffold**  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Phyphox_Scaffold.ipynb)
-
-- **Position Graphs Extended**  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/Position_Graphs_Extended.ipynb)
-
-- **Probability**  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/probability.ipynb)
-
-- **Projectile in Air**  
-  [Notebook](https://github.com/Peter-Apps/coding-camp/blob/main/projectile_in_air.ipynb)
-
-… *add others similarly* …
 
 ---
 
