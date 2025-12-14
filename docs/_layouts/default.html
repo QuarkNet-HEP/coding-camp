@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>{{ page.title }} | {{ site.title }}</title>
+<style>
+body { margin: 0; font-family: system-ui, sans-serif; }
+.container { display: flex; min-height: 100vh; }
+nav {
+width: 260px;
+background: #f5f5f5;
+padding: 1rem;
+border-right: 1px solid #ddd;
+}
+main {
+flex: 1;
+padding: 2rem;
+max-width: 900px;
+}
+nav h2 { font-size: 1.1rem; }
+nav ul { list-style: none; padding: 0; }
+nav li { margin: 0.5rem 0; }
+nav a { text-decoration: none; color: #0366d6; }
+nav a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="container">
+<nav>
+<h2>{{ site.title }}</h2>
+<ul>
+{% for item in site.data.navigation %}
+<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+</nav>
+<main>
+{{ content }}
+</main>
+</div>
+</body>
+</html>
