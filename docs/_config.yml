@@ -1,0 +1,12 @@
+title: Coding Camp
+description: Python and data science notebooks for use in QuarkNet Coding Camps
+theme: minima
+markdown: kramdown
+
+
+# Enable navigation
+defaults:
+- scope:
+path: ""
+values:
+layout: default
