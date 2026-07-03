@@ -1,5 +1,5 @@
 # Quarknet Coding
-These activities were developed for use with teachers in Quarknet Coding Camps and center workshops, so they're less scaffolded than what we might typically use with students. You can run the notebooks in Google Colab (requires a Google login, though) or you can install [Anaconda](https://www.anaconda.com/products/individual) to run Jupyter locally on your computer. To download a notebook and run in locally, right-click or command-click the download link and select "save link as".  
+These activities were developed for use with teachers in Quarknet Coding Camps and center workshops, so they're less scaffolded than what we might typically use with students. You can run the notebooks in Google Colab (requires a Google login, though) or you can install [Anaconda](https://www.anaconda.com/products/individual) to run Jupyter locally on your computer. To download a notebook and run in locally, right-click or command-click the download link and select "save link as".  Thanks to the folks at [Binder](https://mybinder.org/), you can also run our notebooks here [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peter-Apps/coding-camp/HEAD)
 
 # Notebooks by Topic
 
