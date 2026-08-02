@@ -32,7 +32,7 @@ jobs:
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/gfidalgo_dev'
     permissions:
       pages: write
       id-token: write
